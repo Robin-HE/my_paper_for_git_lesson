@@ -3,3 +3,6 @@ author:yh
 time:
 
 (title:my previous paper; author: yh)
+
+
+method: comparison and simulation
