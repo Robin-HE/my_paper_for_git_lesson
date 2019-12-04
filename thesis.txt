@@ -1,3 +1,5 @@
 title: version control with git
 author:yh
 time:
+
+(title:my previous paper; author: yh)
